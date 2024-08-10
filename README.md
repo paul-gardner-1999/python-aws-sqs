@@ -1,5 +1,5 @@
 # python-aws-sqs
-Simple tests with was sqs
+Simple tests with aws sqs
 
 ### Prerequisites
 * docker desktop
